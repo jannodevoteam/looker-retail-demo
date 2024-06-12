@@ -4,7 +4,7 @@ include: "/views/sales_data.view"
 explore: retail_sales {
   from: sales_data
   group_label: "Janno - @{proj_name}"
-  label: "retail analysis"
+  label: "Sales Analysis"
   view_label: "sales"
   description: "This explore can be used to analyse the retail test dataset"
   hidden: no
